@@ -34,7 +34,6 @@
 * [REST API简介](https://github.com/huobiapi/API_Docs/wiki/REST_introduction)<br>
 * [签名认证(重要，请仔细阅读)](https://github.com/huobiapi/API_Docs/wiki/REST_authentication)<br>
 * [请求说明(一定要看)](https://github.com/huobiapi/API_Docs/wiki/REST_request)<br>
-* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo)
 
  >  **以下是火币Global币币现货,币币杠杆的具体接口说明**<br>
 * [API Reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference)<br>
@@ -44,6 +43,7 @@
 >  **以下是火币Global合约交易具体接口说明**<br>
 * [API Reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference_Derivatives)<br>
 * [错误代码](https://github.com/huobiapi/API_Docs/wiki/WS_error_code_derivatives)<br>
+* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo)<br>
 
 
 # 子账号API相关说明<br>
