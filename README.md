@@ -1,6 +1,6 @@
 目前关于apikey申请和修改，请在“账户 - API管理”页面进行相关操作。
 
-支持**所有火币Pro站和HADAX站交易中**的交易对
+支持**所有Huobi Global中**的交易对
 
 常见问题请参考[FAQ](https://github.com/huobiapi/API-FAQ/wiki)
 
@@ -12,7 +12,7 @@
 # 现货与杠杆
 
 ## WebSocket行情，资产和交易推送API<br>
- >  **适用于 火币Pro站和HADAX站**<br>
+ >  **适用于 Huobi Global**<br>
 
 * [WebSocket API简介](WS_introduction)<br>
 * [请求与订阅说明](WS_request)<br>
@@ -22,7 +22,7 @@
  [CSharp](https://github.com/huobiapi/WebSocket-CSharp-demo) 
 
 ## REST行情、交易API<br>
- >  **适用于 火币Pro站和HADAX站**<br>
+ >  **适用于 Huobi Global**<br>
 
 * [REST API简介](REST_introduction)<br>
 * [签名认证(重要，请仔细阅读)](REST_authentication)<br>
