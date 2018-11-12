@@ -14,21 +14,21 @@
 ## WebSocket行情，资产和交易推送API<br>
  >  **适用于 Huobi Global**<br>
 
-* [WebSocket API简介](WS_introduction)<br>
-* [请求与订阅说明](WS_request)<br>
-* [API Reference](WS_api_reference)<br>
-* [错误代码](WS_error_code)<br>
+* [WebSocket API简介](https://github.com/huobiapi/API_Docs/wiki/WS_introduction)<br>
+* [请求与订阅说明](https://github.com/huobiapi/API_Docs/wiki/WS_request)<br>
+* [API Reference](https://github.com/huobiapi/API_Docs/wiki/WS_api_reference)<br>
+* [错误代码](https://github.com/huobiapi/API_Docs/wiki/WS_error_code)<br>
 * 代码示例：[Python3](https://github.com/huobiapi/Websocket-Python3-demo)  [Node.js](https://github.com/huobiapi/WebSocket-Node.js-demo)  [PHP](https://github.com/huobiapi/WebSocket-PHP-demo) 
  [CSharp](https://github.com/huobiapi/WebSocket-CSharp-demo) 
 
 ## REST行情、交易API<br>
  >  **适用于 Huobi Global**<br>
 
-* [REST API简介](REST_introduction)<br>
-* [签名认证(重要，请仔细阅读)](REST_authentication)<br>
-* [请求说明(一定要看)](REST_request)<br>
-* [API Reference](REST_api_reference)<br>
-* [错误代码](REST_error_code)<br>
+* [REST API简介](https://github.com/huobiapi/API_Docs/wiki/REST_introduction)<br>
+* [签名认证(重要，请仔细阅读)](https://github.com/huobiapi/API_Docs/wiki/REST_authentication)<br>
+* [请求说明(一定要看)](https://github.com/huobiapi/API_Docs/wiki/REST_request)<br>
+* [API Reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference)<br>
+* [错误代码](https://github.com/huobiapi/API_Docs/wiki/REST_error_code)<br>
 * 代码示例 [Python3](https://github.com/huobiapi/REST-Python3-demo) [Node.js](https://github.com/huobiapi/REST-Node.js-demo) [Java](https://github.com/huobiapi/REST-Java-demo) [C#](https://github.com/huobiapi/REST-CSharp-demo) [go](https://github.com/huobiapi/REST-GO-demo) [PHP](https://github.com/huobiapi/REST-PHP-demo) [C++](https://github.com/huobiapi/REST-Cpp-demo) [Objective-C](https://github.com/huobiapi/REST-ObjectiveC-demo) [QTC++](https://github.com/huobiapi/REST-QTCpp-demo) [Python2.7](https://github.com/huobiapi/REST-Python2.7-demo) [Ruby](https://github.com/huobiapi/REST-Ruby-demo) [易语言](https://github.com/huobiapi/REST-YiYuyan-demo)
 
 ## 子账号API相关说明
