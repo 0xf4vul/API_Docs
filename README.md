@@ -61,6 +61,6 @@
  >  **适用于 火币合约站**<br>
 * [API Reference](REST_api_reference_Derivatives)<br>
 * [错误代码](WS_error_code_derivatives)<br>
-* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo)<br><br>
+* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo)<br>
 
 English document [click here](https://github.com/huobiapi/API_Docs_en/wiki)
