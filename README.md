@@ -33,8 +33,8 @@
 
 ## 子账号API相关说明
 
-* 子账号API Key 现不能绑定IP， 有效期为90天（与现有母账户安全策略一致）
-* 子账号开放的接口包括全部行情接口以及如下需要验签的接口。其他接口子账号不可访问，如果尝试访问，系统会返回error-code 403：
+* 子账号 API Key 与现有母账户安全策略一致；
+* 子账号开放的接口包括全部行情接口以及如下需要验签的接口。其他接口子账号不可访问，如果尝试访问，系统会返回error-code 403。
 
 接口|说明|
 ----------------------|---------------------|
@@ -63,4 +63,4 @@
 * [错误代码](WS_error_code_derivatives)<br>
 * 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo)<br>
 
-English Docs [click here](https://github.com/huobiapi/API_Docs_en/wiki)
+English document [click here](https://github.com/huobiapi/API_Docs_en/wiki)
