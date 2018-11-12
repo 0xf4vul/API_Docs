@@ -1,6 +1,6 @@
 目前关于apikey申请和修改，请在“账户 - API管理”页面进行相关操作。
 
-支持**所有Huobi Global中**的交易对
+支持所有**Huobi Global**中的交易对
 
 常见问题请参考[FAQ](https://github.com/huobiapi/API-FAQ/wiki)
 
