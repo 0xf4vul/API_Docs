@@ -50,7 +50,7 @@
 [GET /v1/account/accounts](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference#get-v1accountaccounts)	|查询当前用户的所有账户|
 [GET /v1/account/accounts/{account-id}/balance](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference#get-v1accountaccountsaccount-idbalance-%E6%9F%A5%E8%AF%A2pro%E7%AB%99%E6%8C%87%E5%AE%9A%E8%B4%A6%E6%88%B7%E7%9A%84%E4%BD%99%E9%A2%9D)	|查询指定账户的余额|
 
-# 期货合约
+# 合约
 
 ## WebSocket 行情,交易 API<br>
  >  **适用于 火币合约站**<br>
