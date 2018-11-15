@@ -53,13 +53,13 @@
 # 合约
 
 ## WebSocket 行情,交易 API<br>
- >  **适用于 火币合约站**<br>
+ >  **适用于 火币合约站 hbdm.com**<br>
 * [API Reference](https://github.com/huobiapi/API_Docs/wiki/WS_api_reference_Derivatives)<br>
 * [错误代码](https://github.com/huobiapi/API_Docs/wiki/WS_error_code_derivatives)<br>
 * 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo)<br>
 
 ## REST 行情、交易 API<br>
- >  **适用于 火币合约站**<br>
+ >  **适用于 火币合约站 hbdm.com**<br>
 * [API Reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference_Derivatives)<br>
 * [错误代码](https://github.com/huobiapi/API_Docs/wiki/WS_error_code_derivatives)<br>
 * 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo) [PHP](https://github.com/huobiapi/Futures-PHP-demo)<br>
