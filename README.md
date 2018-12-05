@@ -61,6 +61,7 @@
  >  **适用于 火币合约站 hbdm.com**<br>
 * [API Reference](https://github.com/huobiapi/API_Docs/wiki/REST_api_reference_Derivatives)<br>
 * [错误代码](https://github.com/huobiapi/API_Docs/wiki/Resf_error_code_derivatives)<br>
-* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo) [PHP](https://github.com/huobiapi/Futures-PHP-demo)<br>
+* 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo) [PHP](https://github.com/huobiapi/Futures-PHP-demo)
+[c#](https://github.com/huobiapi/Futures-CSharp-demo)<br>
 
 English document [click here](https://github.com/huobiapi/API_Docs_en/wiki)
