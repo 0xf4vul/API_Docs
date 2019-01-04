@@ -4,12 +4,13 @@
 
 常见问题请参考[FAQ](https://github.com/huobiapi/API-FAQ/wiki)
 
-欢迎有优秀 maker 策略交易量大的用户参与长期做市商项目。如果您的火币账户中有折合大于20BTC资产，请提供以下信息到：<br>
-- Huobi Global（现货 / 杠杆）MM_service@huobi.com；<br>
-- HBDM（合约）dm_mm@huobi.com；<br>
+欢迎有优秀 maker 策略且交易量大的用户参与长期做市商项目。如果您的火币现货账户或者合约账户中有折合大于20BTC资产（币币和合约账户分开统计），请提供以下信息发送邮件至：<br>
+- Huobi Global（现货 / 杠杆）做市商申请：MM_service@huobi.com；<br>
+- HBDM（合约）做市商申请：dm_mm@huobi.com；<br>
 
 > 1. 提供uid（需不存在返佣关系的uid）
-> 2. 提供其他交易平台证明maker交易量截图（比如30天内成交量，或者VIP等级等）
+> 2. 提供其他交易平台maker交易量截图证明（比如30天内成交量，或者VIP等级等）
+> 3. 简要阐述做市方法，不需要细节
 
 **_做市商项目不支持点卡抵扣、VIP、交易量相关活动以及任何形式的返佣活动_**
 
