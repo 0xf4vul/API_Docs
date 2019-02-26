@@ -70,4 +70,4 @@
 [C#](https://github.com/huobiapi/Futures-CSharp-demo) [Go](https://github.com/huobiapi/Futures-Go-demo)
  [易语言](https://github.com/huobiapi/Futures-Yi-demo)<br>
 
-English document [click here](https://github.com/huobiapi/API_Docs_en/wiki)
+English document [click here](https://github.com/huobiapi/API_Docs_en/wiki) Русские документы [Нажмите здесь](https://github.com/huobiapi/API_doc_ru_for_HBDM/blob/master/index_ru.md)
