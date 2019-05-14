@@ -4,7 +4,7 @@
 
 常见问题请参考[FAQ](https://github.com/huobiapi/API-FAQ/wiki)
 
-欢迎有优秀 maker 策略且交易量大的用户参与长期做市商项目。如果您的火币现货账户或者合约账户中有折合大于20BTC资产（币币和合约账户分开统计），请提供以下信息发送邮件至：<br>
+欢迎有优秀 maker 策略且交易量大的用户参与长期做市商项目。如果您的火币现货账户或者合约账户中有折合大于10BTC资产（币币和合约账户分开统计），请提供以下信息发送邮件至：<br>
 - Huobi Global（现货 / 杠杆）做市商申请：MM_service@huobi.com；<br>
 - HBDM（合约）做市商申请：dm_mm@huobi.com；<br>
 
@@ -70,5 +70,6 @@
 * 代码示例：[Python](https://github.com/huobiapi/Futures-Python-demo)  [Java](https://github.com/huobiapi/Futures-Java-demo) [Node.js](https://github.com/huobiapi/Futures-Node.js-demo) [PHP](https://github.com/huobiapi/Futures-PHP-demo)
 [C#](https://github.com/huobiapi/Futures-CSharp-demo) [Go](https://github.com/huobiapi/Futures-Go-demo)
  [易语言](https://github.com/huobiapi/Futures-Yi-demo)<br>
+* [火币合约API版本历史记录](https://huobiglobal.zendesk.com/hc/zh-cn/articles/360000263201-%E7%81%AB%E5%B8%81%E5%90%88%E7%BA%A6API%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95)<br>
 
 English document [click here](https://github.com/huobiapi/API_Docs_en/wiki) Русские документы [Нажмите здесь](https://github.com/huobiapi/API_doc_ru_for_HBDM/blob/master/index_ru.md)
