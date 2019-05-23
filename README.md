@@ -4,7 +4,7 @@
 
 常见问题请参考[FAQ](https://github.com/huobiapi/API-FAQ/wiki)
 
-欢迎有优秀 maker 策略且交易量大的用户参与长期做市商项目。如果您的火币现货账户或者合约账户中有折合大于10BTC资产（币币和合约账户分开统计），请提供以下信息发送邮件至：<br>
+欢迎有优秀 maker 策略且交易量大的用户参与长期做市商项目。如果您的火币现货账户或者合约账户中有折合大于5BTC资产（币币和合约账户分开统计），请提供以下信息发送邮件至：<br>
 - Huobi Global（现货 / 杠杆）做市商申请：MM_service@huobi.com；<br>
 - HBDM（合约）做市商申请：dm_mm@huobi.com；<br>
 
