@@ -1,3 +1,5 @@
+# 该文档已经停止更新。最新的火币API文档，请参考https://huobiapi.github.io/docs/spot/v1/cn/
+
 目前关于apikey申请和修改，请在“账户 - API管理”页面进行相关操作。
 
 支持所有**Huobi Global**中的交易对
